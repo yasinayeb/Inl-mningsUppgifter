@@ -1,0 +1,17 @@
+C:\School\C-Sharp\InlämningsUppgiften\InlämningsUppgiften\bin\Debug\net7.0\InlämningsUppgiften.exe
+C:\School\C-Sharp\InlämningsUppgiften\InlämningsUppgiften\bin\Debug\net7.0\InlämningsUppgiften.deps.json
+C:\School\C-Sharp\InlämningsUppgiften\InlämningsUppgiften\bin\Debug\net7.0\InlämningsUppgiften.runtimeconfig.json
+C:\School\C-Sharp\InlämningsUppgiften\InlämningsUppgiften\bin\Debug\net7.0\InlämningsUppgiften.dll
+C:\School\C-Sharp\InlämningsUppgiften\InlämningsUppgiften\bin\Debug\net7.0\InlämningsUppgiften.pdb
+C:\School\C-Sharp\InlämningsUppgiften\InlämningsUppgiften\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\School\C-Sharp\InlämningsUppgiften\InlämningsUppgiften\obj\Debug\net7.0\InlämningsUppgiften.csproj.AssemblyReference.cache
+C:\School\C-Sharp\InlämningsUppgiften\InlämningsUppgiften\obj\Debug\net7.0\InlämningsUppgiften.GeneratedMSBuildEditorConfig.editorconfig
+C:\School\C-Sharp\InlämningsUppgiften\InlämningsUppgiften\obj\Debug\net7.0\InlämningsUppgiften.AssemblyInfoInputs.cache
+C:\School\C-Sharp\InlämningsUppgiften\InlämningsUppgiften\obj\Debug\net7.0\InlämningsUppgiften.AssemblyInfo.cs
+C:\School\C-Sharp\InlämningsUppgiften\InlämningsUppgiften\obj\Debug\net7.0\InlämningsUppgiften.csproj.CoreCompileInputs.cache
+C:\School\C-Sharp\InlämningsUppgiften\InlämningsUppgiften\obj\Debug\net7.0\InlämningsUppgiften.csproj.CopyComplete
+C:\School\C-Sharp\InlämningsUppgiften\InlämningsUppgiften\obj\Debug\net7.0\InlämningsUppgiften.dll
+C:\School\C-Sharp\InlämningsUppgiften\InlämningsUppgiften\obj\Debug\net7.0\refint\InlämningsUppgiften.dll
+C:\School\C-Sharp\InlämningsUppgiften\InlämningsUppgiften\obj\Debug\net7.0\InlämningsUppgiften.pdb
+C:\School\C-Sharp\InlämningsUppgiften\InlämningsUppgiften\obj\Debug\net7.0\InlämningsUppgiften.genruntimeconfig.cache
+C:\School\C-Sharp\InlämningsUppgiften\InlämningsUppgiften\obj\Debug\net7.0\ref\InlämningsUppgiften.dll
